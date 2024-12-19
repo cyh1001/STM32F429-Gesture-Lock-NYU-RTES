@@ -1,0 +1,26 @@
+#PlatformIO build files
+.pio/
+build/
+#VSCode user settings
+.vscode/
+# binary files and temp files
+*.bin
+*.elf
+*.hex
+# object files and other build artifacts
+*.o
+*.d
+*.a
+# debugging files
+*.log
+# IDE files
+*.code-workspace
+# OS-generated files
+.DS_Store
+Thumbs.db
+# backup or temporary files
+*.bak
+*.tmp
+*.swp
+# configuration or transient files
+project.checksum
